@@ -1,0 +1,12 @@
+# Folders
+site-media/
+static-files/
+database/
+.idea/
+
+# Files
+*.DS_Store
+*.pyc
+*.css.map
+*.js.map
+*.log
